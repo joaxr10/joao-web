@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi sitio web personal</title>
+</head>
+
+<body>
+    <h1>Yo, Breiner Reyes Suárez</h1>
+
+    <h2>Estudiante de Bachillerato</h2>
+
+    <p>
+        Soy estudiante de bachillerato y me gusta aprender
+        nuevas cosas relacionadas con la tecnología.
+    </p>
+
+    <h2>Mis intereses</h2>
+
+    <ul>
+        <li>⚽ Fútbol</li>
+        <li>💻 Tecnología</li>
+        <li>📱 Internet y redes sociales</li>
+        <li>🚀 Aprender cosas nuevas</li>
+    </ul>
+
+    <h2>Mi objetivo</h2>
+
+    <p>
+        Seguir aprendiendo y desarrollar nuevas habilidades
+        en tecnología y programación.
+    </p>
+</body>
+</html>
